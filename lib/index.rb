@@ -10,3 +10,5 @@ class CheckAheadRunner
     system('check-ahead check_commits')
   end
 end
+
+CheckAheadRunner.run
