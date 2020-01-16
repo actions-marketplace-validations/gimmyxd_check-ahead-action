@@ -1,0 +1,6 @@
+---
+name: 'Check Commits'
+description: 'Check commits against defined rules'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
