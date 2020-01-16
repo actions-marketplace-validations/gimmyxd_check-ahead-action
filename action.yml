@@ -1,6 +1,9 @@
 ---
 name: 'Check Commits'
 description: 'Check commits against defined rules'
+branding:
+  icon: 'check-square'
+  color: 'purple'
 runs:
   using: 'docker'
   image: 'Dockerfile'
